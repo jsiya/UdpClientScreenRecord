@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wKdjrU8kQdARerjBj04rODxGJ0fD/pM40IKTPqZ2VF3HZnebMvGFbwH+Bo0gRhiTvingSXMx17ou8ag+r6cF8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Siya\\source\\repos\\UdpClientScreenRecord\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Siya\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Siya\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
